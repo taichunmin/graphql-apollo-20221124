@@ -12,9 +12,12 @@
   },
   "dependencies": {
     "@apollo/server": "^4.2.1",
+    "@graphql-tools/schema": "^9.0.10",
     "graphql": "^16.6.0",
     "graphql-type-json": "^0.3.2",
+    "graphql-ws": "^5.11.2",
     "lodash": "^4.17.21",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "ws": "^8.11.0"
   }
 }
